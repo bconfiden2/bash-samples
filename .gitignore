@@ -1,3 +1,5 @@
 input*
 test.sh
 *.html
+*.tmp
+*.txt
