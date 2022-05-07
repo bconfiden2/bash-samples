@@ -1,5 +1,7 @@
 input*
-test.sh
+output*
+test.*
 *.html
 *.tmp
 *.txt
+
